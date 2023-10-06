@@ -1,6 +1,6 @@
 ### Hi! 
 
-I'm Caleb, a Co-Founder of LaunchFlow inc. Where we're making writing Python data pipelines as easy as possible. Previous I worked at Verily Life Sciences and Google Drive.
+I'm Caleb, a Co-Founder of LaunchFlow inc. Where we're making writing Python backend systems as easy as possible. Previous I worked at Verily Life Sciences and Google Drive.
 
 I'm passionate about distributed computing and love learning about new technologies to process data at scale. 
 
